@@ -6,5 +6,6 @@ public class Hello {
         Person p = new Person();
         p.hello();
         new Person().hello();
+
     }
 }
